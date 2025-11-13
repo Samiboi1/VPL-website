@@ -2,7 +2,7 @@
 .page {
     display: flex;
 }
-*/
+'*/
 
 body {
     background-color: #384e66;
@@ -10,8 +10,14 @@ body {
 
 .hesth {
     background-color: #142c42;
+    height: 10vh;
 }
 
 .foten {
     background-color: #142c42;
+    height: 8vh;
+}
+
+p {
+    color: #ffffff;
 }
