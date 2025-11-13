@@ -1,14 +1,15 @@
 .page {
-    display: flex; 
-    padding-left: 30vw;
-    padding-right: 30vw;
-    word-spacing: 1px;
+    display: flex;
 }
 
 body {
     background-color: #384e66;
 }
 
-.hesth .foten {
+.hesth {
+    background-color: #142c42;
+}
+
+.foten {
     background-color: #142c42;
 }
