@@ -1,5 +1,22 @@
-.hesth {
+/* header.css */
+
+header {
     background-color: #142c42;
     padding: 2rem;
     border-radius: 1rem;
+}
+
+.home, .members {
+    background-color: #791f2b;
+    border: none;
+    padding: 0.75rem;
+    border-radius: 1rem;
+    font-weight: bold;
+}
+
+.home a, .members a {
+    color: #f9f9f9;
+    font-weight: bold;
+    padding: 0.75rem;
+    text-decoration: none;
 }

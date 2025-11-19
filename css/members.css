@@ -1,3 +1,5 @@
+/* member.css */
+
 ul {
     display: flex;
     justify-content: center;
@@ -11,18 +13,18 @@ li {
     margin: 0 1rem;             
 }
 
-h1 {
+.memberlist h1 {
     font-size: 48px;
     text-align: center;
     font-weight: bold;
 }
 
-h2 {
+.memberlist h2 {
     font-size: 28px;
     font-weight: bold;
 }
 
-p {
+.memberlist  p {
     font-size: 12px;
     text-align: center;
 }
