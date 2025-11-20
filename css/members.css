@@ -14,15 +14,11 @@ li {
 }
 
 .memberlist h1 {
-    font-size: 2.875rem;
     text-align: center;
-    font-weight: bold;
 }
 
 .memberlist h2 {
-    font-size: 1.75rem;
     font-weight: bold;
-    text-align: center;
 }
 
 .memberlist  p {
