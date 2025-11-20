@@ -22,6 +22,7 @@ li {
 .memberlist h2 {
     font-size: 1.75rem;
     font-weight: bold;
+    text-align: center;
 }
 
 .memberlist  p {
@@ -31,4 +32,5 @@ li {
 
 img {
     margin-bottom: 2rem;
+    align-self: center;
 }
