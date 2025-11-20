@@ -6,7 +6,7 @@ header {
     border-radius: 1rem;
 }
 
-.home, .members {
+button {
     background-color: #791f2b;
     border: none;
     padding: 0.75rem;
@@ -14,7 +14,7 @@ header {
     font-weight: bold;
 }
 
-.home a, .members a {
+button a {
     color: #f9f9f9;
     font-weight: bold;
     padding: 0.75rem;
